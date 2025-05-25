@@ -1,2 +1,4 @@
-# Primeiro_Repositorio
+# Primeiro Repositorio.
 Praticando com o git e github
+
+Repositorio ciado durante a aula de git e github.
